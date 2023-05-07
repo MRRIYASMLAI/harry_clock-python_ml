@@ -1,8 +1,4 @@
-# harry_clock-python_ml
-This technique is opposite to the Green Screening. In green screening, we remove background but here we will remove the foreground frame.  Capture and store the background frame Detect the defined color using  part by generating a mask. Generate the final augmented output to create a magical effect. [ outpu![1_xIho0iQQPs5SyrCHvw55SA](https://user-images.githubusercontent.com/132823058/236677524-1898faab-24d1-4728-a5d7-ebda5a36840b.gif)
-t.avi ]
-
-
+# harry_clock-python
 
 How it works
 *This technique is opposite to the Green Screening. In green screening, we remove background but here we will remove the foreground frame.
