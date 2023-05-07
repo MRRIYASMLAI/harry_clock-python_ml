@@ -1,3 +1,4 @@
+![1_xIho0iQQPs5SyrCHvw55SA](https://user-images.githubusercontent.com/132823058/236677602-a0d45cdc-7760-4011-b450-8ff51f5ce4d4.gif)
 ![1_xIho0iQQPs5SyrCHvw55SA](https://user-images.githubusercontent.com/132823058/236677587-0877ff9a-1f8e-4068-9e07-f1d496d8ca34.gif)
 # harry_clock-python
 
