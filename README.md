@@ -1,3 +1,4 @@
+![1_xIho0iQQPs5SyrCHvw55SA](https://user-images.githubusercontent.com/132823058/236677587-0877ff9a-1f8e-4068-9e07-f1d496d8ca34.gif)
 # harry_clock-python
 
 How it works
